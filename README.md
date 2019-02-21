@@ -10,3 +10,4 @@ Line 6:
     This Revamp is brought to you by shellcheck an the Subconscious_Navigator
     
     #if im missing a licsence for this repo please inform me like i said im totally new to this 
+  #big shoutout to parrotsec an their devs without whom my dirty-parrot wouldve never flown,much much props to whomever wrote the# #original u inspired me to find my inner programmer an for it im eternally greatful#
